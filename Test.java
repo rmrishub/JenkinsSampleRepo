@@ -2,8 +2,8 @@ public class AdditionExample {
 
     public static void main(String[] args) {
 
-        int num1 = 20;
-        int num2 = 50;
+        int num1 = 100;
+        int num2 = 101;
 
         int sum = num1 + num2;
 
